@@ -59,6 +59,8 @@ npm run dev
 Open:
 👉 http://localhost:5173
 
+```
+
 ## 🎯 Goals of This Project
 - Practice advanced UI styling
 - Build a portfolio-grade visual project
