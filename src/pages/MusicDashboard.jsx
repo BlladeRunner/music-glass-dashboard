@@ -81,6 +81,7 @@ export default function MusicDashboard() {
                 <TrackList
                   tracks={tracks}
                   currentId={track?.id}
+                  isPlaying={isPlaying}
                   onPick={(id) => {
                     setTrackById(id);
                     play();
