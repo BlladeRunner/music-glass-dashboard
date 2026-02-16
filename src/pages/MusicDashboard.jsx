@@ -43,8 +43,8 @@ export default function MusicDashboard() {
   }, [theme]);
 
   return (
-    <div className="min-h-screen bg-app">
-      <div className="min-h-screen bg-black/35 text-white">
+    <div className="min-h-screen text-white">
+      <div className="min-h-screen bg-black/35">
         <div className="mx-auto max-w-6xl px-6 py-10 pb-28">
           <GlassPanel className="p-6">
             <div className="flex items-center justify-between">

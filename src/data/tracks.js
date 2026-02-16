@@ -6,7 +6,7 @@ export const tracks = [
     album: "Transmission 001",
     duration: 215,
     cover:
-      "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80",
+      "/src/images/midnightdrive.jpg",
     src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
   },
   {
@@ -16,7 +16,7 @@ export const tracks = [
     album: "Afterhours",
     duration: 189,
     cover:
-      "https://images.unsplash.com/photo-1483000805330-4eaf0a0d82da?auto=format&fit=crop&w=1200&q=80",
+      "/src/images/nightskyline.jpg",
     src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
   },
   {
@@ -26,7 +26,37 @@ export const tracks = [
     album: "Caffeine Sessions",
     duration: 242,
     cover:
-      "https://images.unsplash.com/photo-1517705008128-361805f42e86?auto=format&fit=crop&w=1200&q=80",
+      "/src/images/coldespresso.jpg",
     src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+  },
+  {
+    id: "t4",
+    title: "Firestarter",
+    artist: "The Prodigy",
+    album: "The Fat of the Land",
+    duration: 221,
+    cover:
+      "/src/images/firestarter.jpg",
+    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+  },
+  {
+    id: "t5",
+    title: "Evergreen",
+    artist: "NovaCup",
+    album: "Caffeine Sessions",
+    duration: 198,
+    cover:
+      "/src/images/evergreen.jpg",
+    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+  },
+  {
+    id: "t6",
+    title: "City Lights",
+    artist: "NovaCup",
+    album: "Caffeine Sessions",
+    duration: 198,
+    cover:
+      "/src/images/citylights.jpg",
+    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
   },
 ];
